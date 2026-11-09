@@ -1,0 +1,32 @@
+{
+  "loja": {
+    "nome": "Brechó Exemplo",
+    "whatsapp_humano": "(11) 90000-0000",
+    "horario": "terça a sábado, das 10h às 19h"
+  },
+  "politicas": {
+    "trocas": "Trocas em até 7 dias após o recebimento, com a etiqueta. Não há devolução de dinheiro, só crédito na loja. Peças da arara 'última chance' não têm troca.",
+    "frete": "Frete grátis acima de R$ 150 para a cidade de São Paulo. Para outras cidades, o valor é calculado pelo CEP no fechamento do pedido. Envio em até 2 dias úteis após o pagamento.",
+    "pagamento": "Pix (5% de desconto), cartão de crédito em até 3x sem juros ou débito.",
+    "reserva": "Uma peça fica reservada por 24 horas. Se o pagamento não for feito nesse prazo, a reserva cai e a peça volta para a vitrine.",
+    "estado_das_pecas": "Todas as peças são lavadas e revisadas. Defeitos, quando existem, estão descritos no campo 'observacoes' de cada peça.",
+    "retirada": "Retirada grátis na loja física, Rua Fictícia, 123, São Paulo, no horário de funcionamento."
+  },
+  "produtos": [
+    {"id": "P001", "nome": "Jaqueta jeans oversized anos 90", "categoria": "jaquetas", "tamanho": "G", "preco": 129.9, "cor": "azul claro", "marca": "Levi's", "estado": "ótimo", "observacoes": "", "disponivel": true},
+    {"id": "P002", "nome": "Vestido midi floral de viscose", "categoria": "vestidos", "tamanho": "M", "preco": 79.9, "cor": "verde", "marca": "Farm", "estado": "ótimo", "observacoes": "", "disponivel": true},
+    {"id": "P003", "nome": "Blazer de alfaiataria xadrez", "categoria": "casacos", "tamanho": "P", "preco": 99.0, "cor": "marrom", "marca": "Zara", "estado": "bom", "observacoes": "Um botão da manga foi trocado.", "disponivel": true},
+    {"id": "P004", "nome": "Calça pantalona de linho", "categoria": "calças", "tamanho": "M", "preco": 69.9, "cor": "bege", "marca": "Sem marca", "estado": "ótimo", "observacoes": "", "disponivel": true},
+    {"id": "P005", "nome": "Tênis plataforma branco", "categoria": "calçados", "tamanho": "37", "preco": 149.0, "cor": "branco", "marca": "Vans", "estado": "bom", "observacoes": "Leve desgaste na sola.", "disponivel": true},
+    {"id": "P006", "nome": "Camisa de seda estampada", "categoria": "camisas", "tamanho": "G", "preco": 89.9, "cor": "vinho", "marca": "Animale", "estado": "ótimo", "observacoes": "", "disponivel": true},
+    {"id": "P007", "nome": "Saia de couro sintético", "categoria": "saias", "tamanho": "P", "preco": 59.9, "cor": "preto", "marca": "Renner", "estado": "ótimo", "observacoes": "", "disponivel": false},
+    {"id": "P008", "nome": "Jaqueta de couro motociclista", "categoria": "jaquetas", "tamanho": "M", "preco": 249.0, "cor": "preto", "marca": "Sem marca", "estado": "bom", "observacoes": "Couro legítimo, com marcas de uso que dão charme.", "disponivel": true},
+    {"id": "P009", "nome": "Tricô gola alta", "categoria": "blusas", "tamanho": "M", "preco": 49.9, "cor": "cinza", "marca": "C&A", "estado": "ótimo", "observacoes": "", "disponivel": true},
+    {"id": "P010", "nome": "Vestido de festa longo com brilho", "categoria": "vestidos", "tamanho": "G", "preco": 189.0, "cor": "dourado", "marca": "Sem marca", "estado": "ótimo", "observacoes": "Usado uma vez.", "disponivel": true},
+    {"id": "P011", "nome": "Bolsa de palha", "categoria": "acessórios", "tamanho": "único", "preco": 39.9, "cor": "natural", "marca": "Sem marca", "estado": "bom", "observacoes": "", "disponivel": true},
+    {"id": "P012", "nome": "Macacão utilitário de sarja", "categoria": "macacões", "tamanho": "P", "preco": 109.9, "cor": "verde militar", "marca": "Shoulder", "estado": "ótimo", "observacoes": "", "disponivel": true},
+    {"id": "P013", "nome": "Bota coturno de couro", "categoria": "calçados", "tamanho": "39", "preco": 179.0, "cor": "preto", "marca": "Dr. Martens", "estado": "bom", "observacoes": "Cadarço novo.", "disponivel": true},
+    {"id": "P014", "nome": "Camiseta de banda vintage", "categoria": "camisetas", "tamanho": "G", "preco": 69.0, "cor": "preto", "marca": "Sem marca", "estado": "regular", "observacoes": "Estampa desbotada, do jeito vintage.", "disponivel": true},
+    {"id": "P015", "nome": "Jaqueta corta-vento colorida", "categoria": "jaquetas", "tamanho": "P", "preco": 89.0, "cor": "roxo e verde", "marca": "Adidas", "estado": "ótimo", "observacoes": "", "disponivel": true}
+  ]
+}
